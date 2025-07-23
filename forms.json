@@ -50,5 +50,21 @@
         "raw_content": "Need a laugh? Or a groan? Or a dramatic eye-roll from your whole server?\n\n**Dad Jokes** delivers randomly generated dad jokes so bad, they’re kinda good.\nPerfect icebreaker for awkward silences and dead VC energy.\n\n✨ **Features:**\n* Mention the bot and it responds with the joke\n* Random dad joke\n* No setup needed\n\n**Made by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=961365558148861974&permissions=67584&integration_type=0&scope=bot"
       }
     ]
+  },
+  {
+    "thread_id": 1390677000842117170,
+    "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
+    "messages": [
+      {
+        "message_id": 1390677000842117170,
+        "submitted_by": {
+          "username": "aki.19",
+          "id": 1008122921711059016
+        },
+        "form_title": null,
+        "fields": [],
+        "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
+      }
+    ]
   }
 ]
