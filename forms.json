@@ -59,5 +59,20 @@
         "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
       }
     ]
+  },
+  {
+    "thread_id": 1391753102872285214,
+    "thread_title": "Welcome Wizard Source Code — Self-Hosted Welcome Bot on GitHub",
+    "image_url": "https://cdn.discordapp.com/attachments/1391753102872285214/1391753103212286092/Greeting_Bot_Code.png?ex=68837415&is=68822295&hm=c42a9f5d202a0c02a85029717fc9de7627dd20cd2954f289bf087c3f8ce68a09&",
+    "messages": [
+      {
+        "message_id": 1391753102872285214,
+        "submitted_by": {
+          "username": "007codename",
+          "id": 883965319171952660
+        },
+        "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
+      }
+    ]
   }
 ]
