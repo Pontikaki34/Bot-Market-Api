@@ -69,5 +69,22 @@
       }
     ],
     "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=68837e62&is=68822ce2&hm=9140810e671f8253b3e9b39b80b1f551a72f85726a2b85556ecec224be2a4585&"
+  },
+  {
+    "thread_id": 1391753102872285214,
+    "thread_title": "Welcome Wizard Source Code — Self-Hosted Welcome Bot on GitHub",
+    "messages": [
+      {
+        "message_id": 1391753102872285214,
+        "submitted_by": {
+          "username": "007codename",
+          "id": 883965319171952660
+        },
+        "form_title": null,
+        "fields": [],
+        "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
+      }
+    ],
+    "image_url": "https://cdn.discordapp.com/attachments/1391753102872285214/1391753103212286092/Greeting_Bot_Code.png?ex=68837415&is=68822295&hm=c42a9f5d202a0c02a85029717fc9de7627dd20cd2954f289bf087c3f8ce68a09&"
   }
 ]
