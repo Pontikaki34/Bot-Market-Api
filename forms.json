@@ -4,6 +4,108 @@
       "thread_id": 1368954074929827930,
       "thread_title": "Posting a Free Ad",
       "image_url": "https://cdn.discordapp.com/attachments/1368954074929827930/1368954075131023440/FREE.png?ex=68839155&is=68823fd5&hm=c0079d5d557fea0937eb765030388101aff6c1f65793f773685e4a00cb9d3d8c&",
+      "tags": [
+        {
+          "id": 1359831762863394867,
+          "name": "Verified",
+          "moderated": true
+        },
+        {
+          "id": 1359830646607970345,
+          "name": "Free",
+          "moderated": false
+        },
+        {
+          "id": 1359830779462418452,
+          "name": "Paid",
+          "moderated": false
+        },
+        {
+          "id": 1359830853768974439,
+          "name": "Music",
+          "moderated": false
+        },
+        {
+          "id": 1359830921431486574,
+          "name": "Gaming",
+          "moderated": false
+        },
+        {
+          "id": 1359831018474836000,
+          "name": "Moderation",
+          "moderated": false
+        },
+        {
+          "id": 1359831102021304332,
+          "name": "Ticket",
+          "moderated": false
+        },
+        {
+          "id": 1359831177309061270,
+          "name": "Utility",
+          "moderated": false
+        },
+        {
+          "id": 1359832384924549250,
+          "name": "Source Code",
+          "moderated": false
+        },
+        {
+          "id": 1359831264256983162,
+          "name": "Fun",
+          "moderated": false
+        },
+        {
+          "id": 1359831334800851107,
+          "name": "Economy",
+          "moderated": false
+        },
+        {
+          "id": 1359831419538378816,
+          "name": "Social",
+          "moderated": false
+        },
+        {
+          "id": 1359831486550773783,
+          "name": "Trivia",
+          "moderated": false
+        },
+        {
+          "id": 1359831601688739921,
+          "name": "Reminders",
+          "moderated": false
+        },
+        {
+          "id": 1359831689077194811,
+          "name": "News",
+          "moderated": false
+        },
+        {
+          "id": 1359831843847016538,
+          "name": "Custom",
+          "moderated": false
+        },
+        {
+          "id": 1359832053591572581,
+          "name": "Scheduler",
+          "moderated": false
+        },
+        {
+          "id": 1359832290624274588,
+          "name": "Integration",
+          "moderated": false
+        },
+        {
+          "id": 1359832447570804909,
+          "name": "Art",
+          "moderated": false
+        },
+        {
+          "id": 1359832872516714699,
+          "name": "Other",
+          "moderated": false
+        }
+      ],
       "messages": [
         {
           "message_id": 1368954074929827930,
@@ -14,535 +116,8 @@
           "form_title": null,
           "fields": [],
           "raw_content": ""
-        },
-        {
-          "message_id": 1368954080353062933,
-          "submitted_by": {
-            "username": "CoreRelay",
-            "id": 1368941216670023781
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "# 📢 Welcome to the **Free Ads** section — where anyone can showcase their bot at no cost.\n\n\n## 🧾 How It Works\nThis forum is open to **any member** who wants to promote their bot for free.  \nJust create a post using the **template below** and tag it properly.\n\n---\n\n## 🧩 Posting Guidelines\n1. **Use a clear title** (bot name or core function).\n2. **Include a short description** highlighting what your bot does.\n3. **List key features** in bullet points (what makes it special?).\n4. **Attach a thumbnail** to make your post pop.  \n   *(Ideal size: 1280x780 px)*\n5. **Include your bot’s invite link**.\n\n---\n\n## 🏷️ Tag It Right\nSelect up to **5 tags** that describe your bot (e.g., Music, Moderation, Utility, etc.).\n\n---\n\n## 🚫 Rules\n- NSFW, scam, and malware bots are strictly prohibited.\n- No reposting the same bot over and over. One active listing per bot.\n- Keep your posts respectful, honest, and clear.\n\nViolators may be warned, muted, or banned depending on the case.\n\n---\n\n🎯 Want premium visibility instead?  \nCheck out the <#1287456180289147061> section to get featured in high-traffic promotions!"
-        },
-        {
-          "message_id": 1387063491776479293,
-          "submitted_by": {
-            "username": "CoreRelay",
-            "id": 1368941216670023781
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": ""
-        }
-      ]
-    },
-    "1390326914861891677": {
-      "thread_id": 1390326914861891677,
-      "thread_title": "Dad Jokes — The Bot That’s Legally Required to Embarrass You",
-      "image_url": "https://cdn.discordapp.com/attachments/1390326914861891677/1390326915147108504/Dad_Jokes.png?ex=688389d7&is=68823857&hm=95ee2f4baf8b6aaa11a86b4df784bc3372c2e15e90af0a11e5edbe5dab1e29a6&",
-      "messages": [
-        {
-          "message_id": 1390326914861891677,
-          "submitted_by": {
-            "username": "stoicoperator",
-            "id": 1255081206685503591
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "Need a laugh? Or a groan? Or a dramatic eye-roll from your whole server?\n\n**Dad Jokes** delivers randomly generated dad jokes so bad, they’re kinda good.\nPerfect icebreaker for awkward silences and dead VC energy.\n\n✨ **Features:**\n* Mention the bot and it responds with the joke\n* Random dad joke\n* No setup needed\n\n**Made by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=961365558148861974&permissions=67584&integration_type=0&scope=bot"
-        }
-      ]
-    },
-    "1390677000842117170": {
-      "thread_id": 1390677000842117170,
-      "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
-      "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=68837e62&is=68822ce2&hm=9140810e671f8253b3e9b39b80b1f551a72f85726a2b85556ecec224be2a4585&",
-      "messages": [
-        {
-          "message_id": 1390677000842117170,
-          "submitted_by": {
-            "username": "aki.19",
-            "id": 1008122921711059016
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
-        }
-      ]
-    },
-    "1391753102872285214": {
-      "thread_id": 1391753102872285214,
-      "thread_title": "Welcome Wizard Source Code — Self-Hosted Welcome Bot on GitHub",
-      "image_url": "https://cdn.discordapp.com/attachments/1391753102872285214/1391753103212286092/Greeting_Bot_Code.png?ex=68837415&is=68822295&hm=c42a9f5d202a0c02a85029717fc9de7627dd20cd2954f289bf087c3f8ce68a09&",
-      "messages": [
-        {
-          "message_id": 1391753102872285214,
-          "submitted_by": {
-            "username": "007codename",
-            "id": 883965319171952660
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
-        }
-      ]
-    },
-    "1392628921023070268": {
-      "thread_id": 1392628921023070268,
-      "thread_title": "Verify Tag - Reward Users Using Your Tag",
-      "image_url": "https://cdn.discordapp.com/attachments/1392628921023070268/1392628921362812928/verify-tag.png?ex=68835800&is=68820680&hm=263e54302f5063a381b324014e9f911363573cbae077217094a6281ad7a110f4&",
-      "messages": [
-        {
-          "message_id": 1392628921023070268,
-          "submitted_by": {
-            "username": "_synz_.",
-            "id": 1183272341778747445
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "**Verify Tag** – Turn Discord Tags into a Badge of Honor\n\nEmpower your community with Discord’s custom tag feature by rewarding users who wear your tag with pride.\n\n✨ **Features:**\n* Secure verification flow through a web interface\n* Automatically assign a role to verified tag users\n* Fully embedded, ephemeral responses to keep your server clean\n* Easy setup with `/config` and built-in help with `/help`\n* Promote server identity, reward loyalty, and boost engagement\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Roles\n* Send Messages\n\n**🔗 Invite:** https://verify.synz.xyz/invite  \n**💬 Support Server:** discord.gg/aKWZ7XMVQj"
-        }
-      ]
-    },
-    "1392882855570313336": {
-      "thread_id": 1392882855570313336,
-      "thread_title": "New all in one discord bot",
-      "image_url": "https://cdn.discordapp.com/attachments/1392882855570313336/1392882856266825789/IMG_20250710_175730.jpg?ex=68839bbf&is=68824a3f&hm=323a8823e47943e5361717ecc200798e1b7a8ffae3220f29808d806db18d82f7&",
-      "messages": [
-        {
-          "message_id": 1392882855570313336,
-          "submitted_by": {
-            "username": "pontikaki34",
-            "id": 976128925799444570
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "Are you tired of using a different discord bot for every feature you use or do you want a full Free discord bot? \n\nWe got you cover\n\nSay hello to GuardX \n\nWhat is GuardX?\n\nGuardX is a  complete free all in one discord bot \n\nIts features are 24/7 runtime, Moderation Commands, Music Plugin, Giveaway Commands, greeting new members and also says goodbye,  Xp Plugin,a Verification System  and a ticket system\n\nEverything sounds good to your feeling? \nWant to invite the bot? go to https://guardx.pages.dev/invite\nHave any questions or found any bugs? Join the discord server at https://guardx.pages.dev/server\n\nGuardX has its own website: https://guardx.pages.dev\n\nThat's All for guardx"
-        },
-        {
-          "message_id": 1392941328534470729,
-          "submitted_by": {
-            "username": "pontikaki34",
-            "id": 976128925799444570
-          },
-          "form_title": null,
-          "fields": [],
-          "raw_content": "If you like the bot Upvote it Please"
         }
       ]
     }
-  },
-  "forum_tags": {
-    "🛒︱marketplace": [
-      {
-        "id": 1359831762863394867,
-        "name": "Verified",
-        "moderated": true
-      },
-      {
-        "id": 1359830646607970345,
-        "name": "Free",
-        "moderated": false
-      },
-      {
-        "id": 1359830779462418452,
-        "name": "Paid",
-        "moderated": false
-      },
-      {
-        "id": 1359830853768974439,
-        "name": "Music",
-        "moderated": false
-      },
-      {
-        "id": 1359830921431486574,
-        "name": "Gaming",
-        "moderated": false
-      },
-      {
-        "id": 1359831018474836000,
-        "name": "Moderation",
-        "moderated": false
-      },
-      {
-        "id": 1359831102021304332,
-        "name": "Ticket",
-        "moderated": false
-      },
-      {
-        "id": 1359831177309061270,
-        "name": "Utility",
-        "moderated": false
-      },
-      {
-        "id": 1359832384924549250,
-        "name": "Source Code",
-        "moderated": false
-      },
-      {
-        "id": 1359831264256983162,
-        "name": "Fun",
-        "moderated": false
-      },
-      {
-        "id": 1359831334800851107,
-        "name": "Economy",
-        "moderated": false
-      },
-      {
-        "id": 1359831419538378816,
-        "name": "Social",
-        "moderated": false
-      },
-      {
-        "id": 1359831486550773783,
-        "name": "Trivia",
-        "moderated": false
-      },
-      {
-        "id": 1359831601688739921,
-        "name": "Reminders",
-        "moderated": false
-      },
-      {
-        "id": 1359831689077194811,
-        "name": "News",
-        "moderated": false
-      },
-      {
-        "id": 1359831843847016538,
-        "name": "Custom",
-        "moderated": false
-      },
-      {
-        "id": 1359832053591572581,
-        "name": "Scheduler",
-        "moderated": false
-      },
-      {
-        "id": 1359832290624274588,
-        "name": "Integration",
-        "moderated": false
-      },
-      {
-        "id": 1359832447570804909,
-        "name": "Art",
-        "moderated": false
-      },
-      {
-        "id": 1359832872516714699,
-        "name": "Other",
-        "moderated": false
-      }
-    ],
-    "💼︱paid-ads": [
-      {
-        "id": 1359834379882332200,
-        "name": "Free",
-        "moderated": false
-      },
-      {
-        "id": 1359834450376261826,
-        "name": "Paid",
-        "moderated": false
-      },
-      {
-        "id": 1359834546799120496,
-        "name": "Music",
-        "moderated": false
-      },
-      {
-        "id": 1359834618995671050,
-        "name": "Gaming",
-        "moderated": false
-      },
-      {
-        "id": 1359834690097385482,
-        "name": "Moderation",
-        "moderated": false
-      },
-      {
-        "id": 1359834974907400304,
-        "name": "Ticket",
-        "moderated": false
-      },
-      {
-        "id": 1359835304076382340,
-        "name": "Utility",
-        "moderated": false
-      },
-      {
-        "id": 1359835365430792272,
-        "name": "Fun",
-        "moderated": false
-      },
-      {
-        "id": 1359835423748132884,
-        "name": "Economy",
-        "moderated": false
-      },
-      {
-        "id": 1359835694092255272,
-        "name": "Social",
-        "moderated": false
-      },
-      {
-        "id": 1359840385349718186,
-        "name": "Trivia",
-        "moderated": false
-      },
-      {
-        "id": 1359840665101664449,
-        "name": "Reminders",
-        "moderated": false
-      },
-      {
-        "id": 1359840727202267287,
-        "name": "News",
-        "moderated": false
-      },
-      {
-        "id": 1359841025924792380,
-        "name": "Roles",
-        "moderated": false
-      },
-      {
-        "id": 1359841088608669830,
-        "name": "Custom",
-        "moderated": false
-      },
-      {
-        "id": 1359841190597496832,
-        "name": "Scheduler",
-        "moderated": false
-      },
-      {
-        "id": 1359841563919777903,
-        "name": "Integration",
-        "moderated": false
-      },
-      {
-        "id": 1359841627413413918,
-        "name": "Weather",
-        "moderated": false
-      },
-      {
-        "id": 1359841677220516010,
-        "name": "Art",
-        "moderated": false
-      },
-      {
-        "id": 1359841743218147461,
-        "name": "Other",
-        "moderated": false
-      }
-    ],
-    "📚︱guides-tutorials": [
-      {
-        "id": 1359855171294990439,
-        "name": "Beginner Guide",
-        "moderated": false
-      },
-      {
-        "id": 1359855238605181049,
-        "name": "Setup",
-        "moderated": false
-      },
-      {
-        "id": 1359855405303337061,
-        "name": "Code",
-        "moderated": false
-      },
-      {
-        "id": 1359855462983405712,
-        "name": "Hosting",
-        "moderated": false
-      },
-      {
-        "id": 1359855569158017094,
-        "name": "APIs",
-        "moderated": false
-      },
-      {
-        "id": 1359856394672541850,
-        "name": "Debugging",
-        "moderated": false
-      },
-      {
-        "id": 1359855951838187700,
-        "name": "Automation",
-        "moderated": false
-      },
-      {
-        "id": 1359856677159047238,
-        "name": "Templates",
-        "moderated": false
-      },
-      {
-        "id": 1359855633389715496,
-        "name": "Features",
-        "moderated": false
-      },
-      {
-        "id": 1359855683431829597,
-        "name": "Monetization",
-        "moderated": false
-      },
-      {
-        "id": 1359855766294626485,
-        "name": "Games",
-        "moderated": false
-      },
-      {
-        "id": 1359855851397054584,
-        "name": "Music",
-        "moderated": false
-      },
-      {
-        "id": 1359855904106745896,
-        "name": "Moderation",
-        "moderated": false
-      },
-      {
-        "id": 1359856019869532280,
-        "name": "Analytics",
-        "moderated": false
-      },
-      {
-        "id": 1359856073556754606,
-        "name": "Integrations",
-        "moderated": false
-      },
-      {
-        "id": 1359856140405575923,
-        "name": "Docs",
-        "moderated": false
-      },
-      {
-        "id": 1359856213008846878,
-        "name": "Advanced",
-        "moderated": false
-      },
-      {
-        "id": 1359856288934269028,
-        "name": "Experiments",
-        "moderated": false
-      },
-      {
-        "id": 1359857059700543598,
-        "name": "Support Bots",
-        "moderated": false
-      },
-      {
-        "id": 1359857143603400786,
-        "name": "Misc",
-        "moderated": false
-      }
-    ],
-    "🧩︱bot-requests": [
-      {
-        "id": 1359859741391720600,
-        "name": "Hiring Paid Dev",
-        "moderated": false
-      },
-      {
-        "id": 1359859836581576848,
-        "name": "Free Request",
-        "moderated": false
-      },
-      {
-        "id": 1359859926226178240,
-        "name": "Pending",
-        "moderated": true
-      },
-      {
-        "id": 1359860069826695178,
-        "name": "Accepted",
-        "moderated": true
-      },
-      {
-        "id": 1359860189096050861,
-        "name": "Rejected",
-        "moderated": true
-      },
-      {
-        "id": 1359860317982560401,
-        "name": "Utility Bot",
-        "moderated": false
-      },
-      {
-        "id": 1359860400576921723,
-        "name": "Fun/Gaming Bot",
-        "moderated": false
-      },
-      {
-        "id": 1359860465253089454,
-        "name": "Music Bot",
-        "moderated": false
-      },
-      {
-        "id": 1359860511596085342,
-        "name": "Economy Bot",
-        "moderated": false
-      },
-      {
-        "id": 1359860634354979011,
-        "name": "Custom Idea",
-        "moderated": false
-      }
-    ],
-    "💡︱suggestions-feedback": [
-      {
-        "id": 1359880110626574338,
-        "name": "Approved",
-        "moderated": true
-      },
-      {
-        "id": 1359880203681136850,
-        "name": "Under Review",
-        "moderated": true
-      },
-      {
-        "id": 1359880329015460032,
-        "name": "Rejected",
-        "moderated": true
-      },
-      {
-        "id": 1359879381966651412,
-        "name": "Feature Request",
-        "moderated": false
-      },
-      {
-        "id": 1359879438992674977,
-        "name": "Improvement",
-        "moderated": false
-      },
-      {
-        "id": 1359879517019050167,
-        "name": "Bug Report",
-        "moderated": false
-      },
-      {
-        "id": 1359879596119691475,
-        "name": "Bot Idea",
-        "moderated": false
-      },
-      {
-        "id": 1359879678063808696,
-        "name": "Design/UI",
-        "moderated": false
-      },
-      {
-        "id": 1359879963448180819,
-        "name": "Performance",
-        "moderated": false
-      },
-      {
-        "id": 1359880054032826579,
-        "name": "Remove Feature",
-        "moderated": false
-      }
-    ]
   }
 }
