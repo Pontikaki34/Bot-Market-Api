@@ -495,6 +495,125 @@
           "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
         }
       ]
+    },
+    "1392628921023070268": {
+      "thread_id": 1392628921023070268,
+      "thread_title": "Verify Tag - Reward Users Using Your Tag",
+      "image_url": "https://cdn.discordapp.com/attachments/1392628921023070268/1392628921362812928/verify-tag.png?ex=68835800&is=68820680&hm=263e54302f5063a381b324014e9f911363573cbae077217094a6281ad7a110f4&",
+      "tags": [
+        {
+          "id": 1359831762863394867,
+          "name": "Verified",
+          "moderated": true
+        },
+        {
+          "id": 1359830646607970345,
+          "name": "Free",
+          "moderated": false
+        },
+        {
+          "id": 1359830779462418452,
+          "name": "Paid",
+          "moderated": false
+        },
+        {
+          "id": 1359830853768974439,
+          "name": "Music",
+          "moderated": false
+        },
+        {
+          "id": 1359830921431486574,
+          "name": "Gaming",
+          "moderated": false
+        },
+        {
+          "id": 1359831018474836000,
+          "name": "Moderation",
+          "moderated": false
+        },
+        {
+          "id": 1359831102021304332,
+          "name": "Ticket",
+          "moderated": false
+        },
+        {
+          "id": 1359831177309061270,
+          "name": "Utility",
+          "moderated": false
+        },
+        {
+          "id": 1359832384924549250,
+          "name": "Source Code",
+          "moderated": false
+        },
+        {
+          "id": 1359831264256983162,
+          "name": "Fun",
+          "moderated": false
+        },
+        {
+          "id": 1359831334800851107,
+          "name": "Economy",
+          "moderated": false
+        },
+        {
+          "id": 1359831419538378816,
+          "name": "Social",
+          "moderated": false
+        },
+        {
+          "id": 1359831486550773783,
+          "name": "Trivia",
+          "moderated": false
+        },
+        {
+          "id": 1359831601688739921,
+          "name": "Reminders",
+          "moderated": false
+        },
+        {
+          "id": 1359831689077194811,
+          "name": "News",
+          "moderated": false
+        },
+        {
+          "id": 1359831843847016538,
+          "name": "Custom",
+          "moderated": false
+        },
+        {
+          "id": 1359832053591572581,
+          "name": "Scheduler",
+          "moderated": false
+        },
+        {
+          "id": 1359832290624274588,
+          "name": "Integration",
+          "moderated": false
+        },
+        {
+          "id": 1359832447570804909,
+          "name": "Art",
+          "moderated": false
+        },
+        {
+          "id": 1359832872516714699,
+          "name": "Other",
+          "moderated": false
+        }
+      ],
+      "messages": [
+        {
+          "message_id": 1392628921023070268,
+          "submitted_by": {
+            "username": "_synz_.",
+            "id": 1183272341778747445
+          },
+          "form_title": null,
+          "fields": [],
+          "raw_content": "**Verify Tag** – Turn Discord Tags into a Badge of Honor\n\nEmpower your community with Discord’s custom tag feature by rewarding users who wear your tag with pride.\n\n✨ **Features:**\n* Secure verification flow through a web interface\n* Automatically assign a role to verified tag users\n* Fully embedded, ephemeral responses to keep your server clean\n* Easy setup with `/config` and built-in help with `/help`\n* Promote server identity, reward loyalty, and boost engagement\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Roles\n* Send Messages\n\n**🔗 Invite:** https://verify.synz.xyz/invite  \n**💬 Support Server:** discord.gg/aKWZ7XMVQj"
+        }
+      ]
     }
   }
 }
