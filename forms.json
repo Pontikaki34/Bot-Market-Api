@@ -52,5 +52,22 @@
       }
     ],
     "image_url": "https://cdn.discordapp.com/attachments/1390326914861891677/1390326915147108504/Dad_Jokes.png?ex=688389d7&is=68823857&hm=95ee2f4baf8b6aaa11a86b4df784bc3372c2e15e90af0a11e5edbe5dab1e29a6&"
+  },
+  {
+    "thread_id": 1390677000842117170,
+    "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
+    "messages": [
+      {
+        "message_id": 1390677000842117170,
+        "submitted_by": {
+          "username": "aki.19",
+          "id": 1008122921711059016
+        },
+        "form_title": null,
+        "fields": [],
+        "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
+      }
+    ],
+    "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=68837e62&is=68822ce2&hm=9140810e671f8253b3e9b39b80b1f551a72f85726a2b85556ecec224be2a4585&"
   }
 ]
