@@ -81,5 +81,20 @@
         "raw_content": "If you like the bot Upvote it Please"
       }
     ]
+  },
+  {
+    "thread_id": 1398237310931308677,
+    "thread_title": "How to post my Ad?",
+    "image_url": "https://cdn.discordapp.com/attachments/1398237310931308677/1398237311426367599/FREE.png?ex=6885f2f9&is=6884a179&hm=e37446b50632c2ba97db3e0dd583848577163b7f4feb84fcdb5194f1ad0dc2a7&",
+    "messages": [
+      {
+        "message_id": 1398237310931308677,
+        "submitted_by": {
+          "username": "CoreRelay",
+          "id": 1368941216670023781
+        },
+        "raw_content": ""
+      }
+    ]
   }
 ]
