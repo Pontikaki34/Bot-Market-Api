@@ -2,7 +2,7 @@
   {
     "thread_id": 1390326914861891677,
     "thread_title": "Dad Jokes — The Bot That’s Legally Required to Embarrass You",
-    "image_url": "https://cdn.discordapp.com/attachments/1390326914861891677/1390326915147108504/Dad_Jokes.png?ex=68843297&is=6882e117&hm=ff49f5a5f973c939d00a65b122aaac1073f837d9ede2e73275db36310962309c&",
+    "image_url": "https://cdn.discordapp.com/attachments/1390326914861891677/1390326915147108504/Dad_Jokes.png?ex=68862cd7&is=6884db57&hm=c20f07e441120e450275f07744023d1073b7379e22d78806c6b38c6f062516ee&",
     "messages": [
       {
         "message_id": 1390326914861891677,
@@ -11,129 +11,6 @@
           "id": 1255081206685503591
         },
         "raw_content": "Need a laugh? Or a groan? Or a dramatic eye-roll from your whole server?\n\n**Dad Jokes** delivers randomly generated dad jokes so bad, they’re kinda good.\nPerfect icebreaker for awkward silences and dead VC energy.\n\n✨ **Features:**\n* Mention the bot and it responds with the joke\n* Random dad joke\n* No setup needed\n\n**Made by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=961365558148861974&permissions=67584&integration_type=0&scope=bot"
-      }
-    ]
-  },
-  {
-    "thread_id": 1390677000842117170,
-    "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
-    "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=68842722&is=6882d5a2&hm=0b77840e1debbf8869c3eee07fab8a704a6a4db80e348c277fc208d501e1d08f&",
-    "messages": [
-      {
-        "message_id": 1390677000842117170,
-        "submitted_by": {
-          "username": "aki.19",
-          "id": 1008122921711059016
-        },
-        "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
-      }
-    ]
-  },
-  {
-    "thread_id": 1391753102872285214,
-    "thread_title": "Welcome Wizard Source Code — Self-Hosted Welcome Bot on GitHub",
-    "image_url": "https://cdn.discordapp.com/attachments/1391753102872285214/1391753103212286092/Greeting_Bot_Code.png?ex=68841cd5&is=6882cb55&hm=f5c7225637ff9f0808e2f33926d2169373d0ca0e67e1c3fdd4a1593c342eec00&",
-    "messages": [
-      {
-        "message_id": 1391753102872285214,
-        "submitted_by": {
-          "username": "007codename",
-          "id": 883965319171952660
-        },
-        "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
-      }
-    ]
-  },
-  {
-    "thread_id": 1392628921023070268,
-    "thread_title": "Verify Tag - Reward Users Using Your Tag",
-    "image_url": "https://cdn.discordapp.com/attachments/1392628921023070268/1392628921362812928/verify-tag.png?ex=688400c0&is=6882af40&hm=beeebf40532754d8f44aa0aeebebdbb2000f263b0206fead3d413b84f65fa0ae&",
-    "messages": [
-      {
-        "message_id": 1392628921023070268,
-        "submitted_by": {
-          "username": "_synz_.",
-          "id": 1183272341778747445
-        },
-        "raw_content": "**Verify Tag** – Turn Discord Tags into a Badge of Honor\n\nEmpower your community with Discord’s custom tag feature by rewarding users who wear your tag with pride.\n\n✨ **Features:**\n* Secure verification flow through a web interface\n* Automatically assign a role to verified tag users\n* Fully embedded, ephemeral responses to keep your server clean\n* Easy setup with `/config` and built-in help with `/help`\n* Promote server identity, reward loyalty, and boost engagement\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Roles\n* Send Messages\n\n**🔗 Invite:** https://verify.synz.xyz/invite  \n**💬 Support Server:** discord.gg/aKWZ7XMVQj"
-      }
-    ]
-  },
-  {
-    "thread_id": 1392882855570313336,
-    "thread_title": "New all in one discord bot",
-    "image_url": "https://cdn.discordapp.com/attachments/1392882855570313336/1392882856266825789/IMG_20250710_175730.jpg?ex=6884447f&is=6882f2ff&hm=9e9b75cb36c224756d0c17307f1152dc176f159eee522f4874de7b92c081fa86&",
-    "messages": [
-      {
-        "message_id": 1392882855570313336,
-        "submitted_by": {
-          "username": "pontikaki34",
-          "id": 976128925799444570
-        },
-        "raw_content": "Are you tired of using a different discord bot for every feature you use or do you want a full Free discord bot? \n\nWe got you cover\n\nSay hello to GuardX \n\nWhat is GuardX?\n\nGuardX is a  complete free all in one discord bot \n\nIts features are 24/7 runtime, Moderation Commands, Music Plugin, Giveaway Commands, greeting new members and also says goodbye,  Xp Plugin,a Verification System  and a ticket system\n\nEverything sounds good to your feeling? \nWant to invite the bot? go to https://guardx.pages.dev/invite\nHave any questions or found any bugs? Join the discord server at https://guardx.pages.dev/server\n\nGuardX has its own website: https://guardx.pages.dev\n\nThat's All for guardx"
-      },
-      {
-        "message_id": 1392941328534470729,
-        "submitted_by": {
-          "username": "pontikaki34",
-          "id": 976128925799444570
-        },
-        "raw_content": "If you like the bot Upvote it Please"
-      }
-    ]
-  },
-  {
-    "thread_id": 1398237310931308677,
-    "thread_title": "How to post my Ad?",
-    "image_url": "https://cdn.discordapp.com/attachments/1398237310931308677/1398237311426367599/FREE.png?ex=6884a179&is=68834ff9&hm=7259ed7359a7796e2dc61302734235a97c90c313c4cd78d27bb2caf5fd6a4e0f&",
-    "messages": [
-      {
-        "message_id": 1398237310931308677,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": ""
-      },
-      {
-        "message_id": 1398237314664239134,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": "# 📢 Welcome to the <#1287448157466398791> — where anyone can showcase their bot at no cost.\n\n## 🧾 How It Works\nThis forum is open to **any member** who wants to promote their bot for free.\nJust create a post using the **template below** and tag it properly.\n\n---\n\n## 🧩 Posting Guidelines\n1. **Use a clear title** (bot name or core function).\n2. **Include a description** highlighting what your bot does.\n3. **List key features** in bullet points (what makes it special?).\n4. **Attach a thumbnail** to make your post pop. (Ideal size: 1280x780 px)\n4. **Include your bot’s invite link.**\n\n---\n\n## 🏷️ Tag It Right\nSelect up to **5 tags** that describe your bot (e.g., Music, Moderation, Utility, etc.).\n\n---\n\n## 🚫 Rules\n* **NSFW, scam, nuke, crypto,** and **malware bots** are **strictly prohibited.**\n* **No reposting** the same bot over and over. One active listing per bot.\n* Keep your posts respectful, honest, and clear.\n\n### ⚠️ Violators may be warned, muted, or banned depending on the case.\n\n---"
-      },
-      {
-        "message_id": 1398237316421779649,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": "# 📘 Tutorial: How to Post a Bot in <#1287448157466398791>"
-      },
-      {
-        "message_id": 1398237319655587984,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": "# This is how it will look:"
-      },
-      {
-        "message_id": 1398237323732455566,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": ""
-      },
-      {
-        "message_id": 1398237333509111981,
-        "submitted_by": {
-          "username": "CoreRelay",
-          "id": 1368941216670023781
-        },
-        "raw_content": ""
       }
     ]
   }
