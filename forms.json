@@ -167,5 +167,20 @@
         "raw_content": "🤖✨ Meet **Bettter Bot** – The Ultimate All-in-One Discord Bot!\n\nPacked with every feature you can imagine — and even some you didn’t know you needed.\n\n━━━━━━━━━━━━━━━━━━\n\n🧭 **Server Growth**\n• Bump system  \n• Global ad relay to promote your server across the network\n\n🛡️ **Raid Protection**\n• Defends against human and bot raids  \n• Smart detection and auto-response\n\n🔧 **Moderation Tools**\n• Invite blockers  \n• Phrase filtering  \n• Built-in verifier system\n\n🎯 **Engagement Boosters**\n• Question of the Day (QOTD)  \n• Count game  \n• In-server shop system  \n• And more interactive features\n\n📜 **Comprehensive Logs**\n• Moderation actions  \n• Channel activity  \n• Message edits/deletes  \n• Role changes  \n• User joins/leaves  \n• Voice channel tracking\n\n⚙️ **Powerful Automation**\n• Custom commands  \n• Sticky messages  \n• Reminders  \n• Temporary voice channels  \n• And more!\n\n🏛️ **Community Features**\n• Welcome & Leave messages  \n• Invite tracker  \n• Staff list  \n• Staff application system\n\n🧰 **Utilities**\n• Ticket system  \n• Select menus  \n• Interactive buttons  \n• Ping replies  \n• Mod Mail\n\nBot Creator zacgaming23\n\n━━━━━━━━━━━━━━━━━━\n**Main Bot**\nhttps://discord.com/oauth2/authorize?client_id=1331077454722502726\n**Mod Mail bot**\nhttps://discord.com/oauth2/authorize?client_id=1376380168159105024"
       }
     ]
+  },
+  {
+    "thread_id": 1399416408214868119,
+    "thread_title": "Ticket Bot - An Open Source Ticket Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1399416408214868119/1399429455054766271/IMG_20250728_193219.jpg?ex=6888f7be&is=6887a63e&hm=35eb1b6e0cad040c5d368bbb7b60c4fbc3139c098ffdb8beb4c1f77991c00a8b&",
+    "messages": [
+      {
+        "message_id": 1399416408214868119,
+        "submitted_by": {
+          "username": "pontikaki34",
+          "id": 976128925799444570
+        },
+        "raw_content": "🎟️ What is Ticket Bot?\n\nTicket Bot is a free, open-source, and fully customizable Discord bot designed to help you easily manage support tickets within your server. Whether you're running a gaming community, offering customer support, or managing applications, Ticket Bot provides a simple and effective solution for organizing and responding to user inquiries.\n\n💡 Key Features:\nCompletely Free – No hidden fees, subscriptions, or premium versions.\n\nOpen Source – Built for the community. You can view, modify, and contribute to the source code.\n\nEasy to Customize – From ticket categories to embed messages, Ticket Bot is simple to tweak for your server’s needs.\n\nQuick Setup – All installation and configuration steps are clearly documented on the GitHub repository.\n\n📦 Get Started:\nSetting up the bot is quick and painless. Just head over to the official repository and follow the step-by-step guide:\n👉 [Ticket Bot on GitHub](https://github.com/Pontikaki34/Ticket-Bot-Discord)\n\n🔧 Make It Your Own:\nYou’re encouraged to clone, modify, and build upon this project. Whether you're a developer looking to improve functionality or a server admin wanting to tailor the bot to your community, the code is yours to explore.\n\nThank you for using Ticket Bot! 🎟️\n\nMade With ❤️ By Pontikaki34"
+      }
+    ]
   }
 ]
