@@ -97,5 +97,20 @@
         "raw_content": "GuardX - A Multipurpose Discord Bot"
       }
     ]
+  },
+  {
+    "thread_id": 1398237310931308677,
+    "thread_title": "How to post my Ad?",
+    "image_url": "https://cdn.discordapp.com/attachments/1398237310931308677/1398237311426367599/FREE.png?ex=6887ed39&is=68869bb9&hm=7666ae5d6a1331bcf2116cd1f5ca625518534677be293954bdb5fd2979f40e10&",
+    "messages": [
+      {
+        "message_id": 1398237310931308677,
+        "submitted_by": {
+          "username": "CoreRelay",
+          "id": 1368941216670023781
+        },
+        "raw_content": ""
+      }
+    ]
   }
 ]
