@@ -158,5 +158,20 @@
         "raw_content": "🎟️ What is Ticket Bot?\n\nTicket Bot is a free, open-source, and fully customizable Discord bot designed to help you easily manage support tickets within your server. Whether you're running a gaming community, offering customer support, or managing applications, Ticket Bot provides a simple and effective solution for organizing and responding to user inquiries.\n\n💡 Key Features:\nCompletely Free – No hidden fees, subscriptions, or premium versions.\n\nOpen Source – Built for the community. You can view, modify, and contribute to the source code.\n\nEasy to Customize – From ticket categories to embed messages, Ticket Bot is simple to tweak for your server’s needs.\n\nQuick Setup – All installation and configuration steps are clearly documented on the GitHub repository.\n\n📦 Get Started:\nSetting up the bot is quick and painless. Just head over to the official repository and follow the step-by-step guide:\n👉 [Ticket Bot on GitHub](https://github.com/Pontikaki34/Ticket-Bot-Discord)\n\n🔧 Make It Your Own:\nYou’re encouraged to clone, modify, and build upon this project. Whether you're a developer looking to improve functionality or a server admin wanting to tailor the bot to your community, the code is yours to explore."
       }
     ]
+  },
+  {
+    "thread_id": 1399822375272583198,
+    "thread_title": "KibMod",
+    "image_url": "https://cdn.discordapp.com/attachments/1399822375272583198/1399822375595413625/ChatGPT_Image_Jun_8_2025_08_23_58_PM.png?ex=688a65ad&is=6889142d&hm=282e29d92911f2a1c8784b5c1f6e282b01af4f72d9445d474323464fd5a53dad&",
+    "messages": [
+      {
+        "message_id": 1399822375272583198,
+        "submitted_by": {
+          "username": "kibrisky",
+          "id": 915595546792706168
+        },
+        "raw_content": "This powerful bot is your all-in-one solution for a thriving Discord server! 🚀\n\nHere's how it elevates your community:\n\n🎮 Games & Fun: Keep members entertained with built-in activities and engaging experiences.\n\n🛡️ Moderation: Maintain a clean, organized, and positive environment with robust management tools.\n\n🔒 Anti-Nuke Features: Offering a higher level of security than the average bot, this feature requires the bot to be placed in a higher role within your server's hierarchy. This crucial placement enables it to actively defend against \"nuke\" attempts by kicking or banning malicious bots/users and protecting your community.\n\nIt's the ultimate tool for a fun, safe, and resilient Discord community! ✨\n# [Link To Invite](https://discord.com/oauth2/authorize?client_id=1395479887309045922&permissions=8&integration_type=0&scope=bot+applications.commands)"
+      }
+    ]
   }
 ]
