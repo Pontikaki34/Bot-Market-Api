@@ -211,5 +211,20 @@
         "raw_content": "**Synz ModMail Bot** – Modern, Private Support for Your Discord Community\n\nEmpower your server with a professional ModMail system, making support easy, private, and efficient for both users and staff.\n\n✨ **Features:**\n* Secure, private modmail sessions between users and staff\n* Slash command support for easy configuration and management\n* Button and modal interactions for a modern Discord experience\n* Persistent session tracking and planned transcript saving\n* Customizable embeds and logging for a professional look\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Channels\n* Manage Roles\n* Send Messages\n* Read Message History\n* Embed Links\n\n**Note:**  \nThis is an open-source ModMail bot designed to be self-hosted and used in a single Discord guild (server).  \nNo public hosting or invite link is provided.\n\n**🌐 GitHub:** https://github.com/LeSynz/modmail-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1400538032226177043,
+    "thread_title": "Selling High-Quality Bot Dashboards + Integration",
+    "image_url": "https://cdn.discordapp.com/attachments/1400538032226177043/1400538032922300476/image.png?ex=688d002f&is=688baeaf&hm=dc66c5668e8bcc7d1dcb8c5fb92ec608e1108a572d861ed6df941733837ab843&",
+    "messages": [
+      {
+        "message_id": 1400538032226177043,
+        "submitted_by": {
+          "username": "kuwshyplus",
+          "id": 1273966738324848690
+        },
+        "raw_content": "- ‣ The image below is one of my previous projects! (That is not for sale but a representation) \n\nI decided that I should probably post something like this here. I will create you a High-End Discord Bot Dashboard & integrate it with your current bot for a negotiable fee. \n\n**Integrations** \n- Python **or** JavaScript \n- MongoDB/SQL (No JSON) - I will happily discuss moving your database from JSON -> MongoDB or something more reliable.\n\nI can integrate **Any** command **Any** feature **Any** time."
+      }
+    ]
   }
 ]
