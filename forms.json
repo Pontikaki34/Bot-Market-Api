@@ -226,5 +226,20 @@
         "raw_content": "- ‣ The image below is one of my previous projects! (That is not for sale but a representation) \n\nI decided that I should probably post something like this here. I will create you a High-End Discord Bot Dashboard & integrate it with your current bot for a negotiable fee. \n\n**Integrations** \n- Python **or** JavaScript \n- MongoDB/SQL (No JSON) - I will happily discuss moving your database from JSON -> MongoDB or something more reliable.\n\nI can integrate **Any** command **Any** feature **Any** time."
       }
     ]
+  },
+  {
+    "thread_id": 1400564001946996836,
+    "thread_title": "Server Stats - An open Source Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1400564001946996836/1400570493966221373/Server_Stats_Bot__Real-Time_Metrics.png?ex=688dc72b&is=688c75ab&hm=7c32e4b319e3ecc7facb9e098efcef31b1e280a43a6ba0237d0188b282665283&",
+    "messages": [
+      {
+        "message_id": 1400564001946996836,
+        "submitted_by": {
+          "username": "pontikaki34",
+          "id": 976128925799444570
+        },
+        "raw_content": "🎯 What is Server Stats ?\n\nServer Stats Bot is a free, open-source, and fully automated Discord bot that displays live server metrics in voice channels. Whether you manage a gaming community, a development hub, or a support server, this bot gives your members a clear view of your server’s activity — without lifting a finger.\n\n💡 Key Features:\n\n✅ Completely Free – No paywalls, subscriptions, or premium upsells. Everything is yours from day one.\n✅ Open Source – Built by the community, for the community. Modify it, contribute to it, or just enjoy it.\n✅ Real-Time Updates – Channels auto-update on user join, bot join, role creation, and version changes.\n✅ Set It and Forget It – Once installed, the bot handles everything in the background — no commands needed.\n✅ Clean Design – Stats are shown in read-only voice channels under a dedicated \"Server Stats\" category — visible to all, usable by none.\n\n📊 Displays:\n- Members: Total number of human users\n- Bots: Number of bots in your server\n- Roles: Count of all server roles\n- Version: Automatically Updated\n\n📦 Get Started:\n\nSetting up the bot is simple and fast. Just head to the GitHub repository and follow the clear instructions:\n👉 [Server Stats on GitHub](https://github.com/Pontikaki34/Server-Stats-Discord-Bot)\n\n🔧 Make It Your Own:\n\nWant to tweak how it works? Go ahead! The code is yours to explore and customize. Whether you're an admin looking to brand your server or a developer who wants to expand the features — Server Stats  gives you the freedom to build."
+      }
+    ]
   }
 ]
