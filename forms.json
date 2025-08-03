@@ -43,5 +43,20 @@
         "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n## Features:\n* Sends a stylish embed message in DMs when a user joins\n* Tracks down invites and it saves them in a local file\n* Shows invites statistics\n* Send a tracking message for joins/leaves in a specified channel\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1392628921023070268,
+    "thread_title": "Verify Tag - Reward Users Using Your Tag",
+    "image_url": "https://cdn.discordapp.com/attachments/1392628921023070268/1392628921362812928/verify-tag.png?ex=68908700&is=688f3580&hm=95863f2746a6bac9490dc18a69e4fda48e63946277e502ad8d55bbb656692142&",
+    "messages": [
+      {
+        "message_id": 1392628921023070268,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": "**Verify Tag** – Turn Discord Tags into a Badge of Honor\n\nEmpower your community with Discord’s custom tag feature by rewarding users who wear your tag with pride.\n\n✨ **Features:**\n* Secure verification flow through a web interface\n* Automatically assign a role to verified tag users\n* Fully embedded, ephemeral responses to keep your server clean\n* Easy setup with `/config` and built-in help with `/help`\n* Promote server identity, reward loyalty, and boost engagement\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Roles\n* Send Messages\n\n**🔗 Invite:** https://verify.synz.xyz/invite  \n**💬 Support Server:** discord.gg/aKWZ7XMVQj"
+      }
+    ]
   }
 ]
