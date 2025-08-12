@@ -271,5 +271,20 @@
         "raw_content": "**[No Minors](https://nominors.xyz/)** – Protecting Children from Online Predators\n\nJoin the fight against online child exploitation by implementing comprehensive age verification that automatically prevents minors from accessing adult Discord servers.\n\n**✨ Features:**\n\n* Automated detection and removal of underage users\n* Real-time protection against potential grooming attempts\n* Comprehensive logging and transparency systems\n* Community-driven safety database with 15,000+ tracked minors\n* Professional webhook management for notifications\n* Protecting 63,000+ users across participating servers\n\n**Why It Matters:** Every server that properly enforces age restrictions creates a safer internet for children. By preventing minors from accessing inappropriate spaces, you're actively contributing to child safety and reducing opportunities for predatory behavior online.\n\n**How It Works:** Join our support server and request bot setup for your community. Our team provides professional configuration and ongoing support to ensure maximum protection for your server.\n\nMade by: [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n\n* Manage Roles\n* Send Messages\n* Kick/Ban Members\n* View Audit Log\n\n**🔗 Setup:** Join our support server for bot access\n**💬 Support Server:** discord.gg/YNfnMVBdG9\n\n*Together, we can build a safer digital environment for everyone.*\n**verified bot**"
       }
     ]
+  },
+  {
+    "thread_id": 1402656699516588163,
+    "thread_title": "Synz Tickets - Your All-In-One Ticket Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1402656699516588163/1402656700217032907/ticket-bot.png?ex=689c9e59&is=689b4cd9&hm=0d673c689e20371616b8a4415dfb1e23c6ccd2cb35c272df9526a336c09aef37&",
+    "messages": [
+      {
+        "message_id": 1402656699516588163,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": "Synz Tickets is the first dedicated ticket bot that I have ever made, It hasn't had alot of testing done however it is in a fully complete state.\n\n## Features\n* Fully configurable via `/config`\n* Button based ticket system\n* Full logging system - Staff Actions, Transcripts\n* Fully customisable ticket panels and responses\n\n## Command List\n* `/config` - View/edit the bots config and create ticket panels and types (Admin)\n* `/close` - When used in a ticket channel this will initiate the closing process like the button would\n* `/help` - Detailed help command\n\nAny issues found just send me a DM and I'll get to them ASAP.\n\n**Made by:** [Synz](https://synz.xyz/)\n**Bot Invite:** https://discord.com/oauth2/authorize?client_id=1400203535941107733"
+      }
+    ]
   }
 ]
