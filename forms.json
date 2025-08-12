@@ -241,5 +241,20 @@
         "raw_content": "🎯 What is Server Stats ?\n\nServer Stats Bot is a free, open-source, and fully automated Discord bot that displays live server metrics in voice channels. Whether you manage a gaming community, a development hub, or a support server, this bot gives your members a clear view of your server’s activity — without lifting a finger.\n\n💡 Key Features:\n\n✅ Completely Free – No paywalls, subscriptions, or premium upsells. Everything is yours from day one.\n✅ Open Source – Built by the community, for the community. Modify it, contribute to it, or just enjoy it.\n✅ Real-Time Updates – Channels auto-update on user join, bot join, role creation, and version changes.\n✅ Set It and Forget It – Once installed, the bot handles everything in the background — no commands needed.\n✅ Clean Design – Stats are shown in read-only voice channels under a dedicated \"Server Stats\" category — visible to all, usable by none.\n\n📊 Displays:\n- Members: Total number of human users\n- Bots: Number of bots in your server\n- Roles: Count of all server roles\n- Version: Automatically Updated\n\n📦 Get Started:\n\nSetting up the bot is simple and fast. Just head to the GitHub repository and follow the clear instructions:\n👉 [Server Stats on GitHub](https://github.com/Pontikaki34/Server-Stats-Discord-Bot)\n\n🔧 Make It Your Own:\n\nWant to tweak how it works? Go ahead! The code is yours to explore and customize. Whether you're an admin looking to brand your server or a developer who wants to expand the features — Server Stats  gives you the freedom to build."
       }
     ]
+  },
+  {
+    "thread_id": 1401493651649073303,
+    "thread_title": "FA Bump & FA Global Ads",
+    "image_url": "https://cdn.discordapp.com/attachments/1401493651649073303/1401494341259755622/fabumpbanner.png?ex=689c5851&is=689b06d1&hm=ffc2f1cff5fdc621dacf011df347878c3ed8c030e6c7fbce489489155e94dd9d&",
+    "messages": [
+      {
+        "message_id": 1401493651649073303,
+        "submitted_by": {
+          "username": "yourbetterdude",
+          "id": 1355500165901058118
+        },
+        "raw_content": "# 🚀 **FA Bump & FA Global Ads – Automated Promotion for Your Discord Server**\n\n**More reach. More members. Less effort.**\n\nWith **FA Bump** and **FA Global Ads**, Discordium.org gives you the ultimate tools to promote your Discord server **24/7 – automatically.**\n\n### 🔧 What you get:\n\n* 🔁 **Automatic bumps every 2 hours**\n* 🌐 **Your ad distributed across 100+ partner servers**\n* 🎨 **Custom banners & personalized server descriptions**\n* 💬 **Comment section for your listing**\n* 💎 **Premium boosts & network perks for maximum exposure**\n\n> Whether you're running a gaming hub, support server, or social community – FA helps you reach the right audience.\n\n🛠️ Easy setup with `/setup` // `/bump`\n✅ Start now: \n- https://ptb.discord.com/discovery/applications/1140615763082879047\n- https://ptb.discord.com/discovery/applications/1089476688246738985"
+      }
+    ]
   }
 ]
