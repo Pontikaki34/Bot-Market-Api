@@ -28,5 +28,20 @@
         "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n## Features:\n* Sends a stylish embed message in DMs when a user joins\n* Tracks down invites and it saves them in a local file\n* Shows invites statistics\n* Send a tracking message for joins/leaves in a specified channel\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1390677000842117170,
+    "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
+    "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=689c8ae2&is=689b3962&hm=979a1eea36aa70931797d4aa347498eb8bb4edfe76a39280e93c778005c50391&",
+    "messages": [
+      {
+        "message_id": 1390677000842117170,
+        "submitted_by": {
+          "username": "aki.19",
+          "id": 1008122921711059016
+        },
+        "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=952156525684731906&permissions=67584&integration_type=0&scope=bot"
+      }
+    ]
   }
 ]
