@@ -341,5 +341,20 @@
         "raw_content": ""
       }
     ]
+  },
+  {
+    "thread_id": 1408164698481758248,
+    "thread_title": "Product Listing Bot (With Wishlist £20, w/o £14) (Full Source Code + Setup)",
+    "image_url": null,
+    "messages": [
+      {
+        "message_id": 1408164698481758248,
+        "submitted_by": {
+          "username": "kuwshyplus",
+          "id": 1273966738324848690
+        },
+        "raw_content": "Product Listing Bot with full customization and useful for Commercial or other uses!\n- **Database**: Flexible (Mongo, SQL, JSON, etc.) \n- **Language**: Discord.js (Latest)\n- **Slash Commands**: ✅ \n- **Configurable**: ✅ \n\n[Images Below]"
+      }
+    ]
   }
 ]
