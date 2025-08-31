@@ -13,5 +13,20 @@
         "raw_content": "🎯 What is Server Stats ?\n\nServer Stats Bot is a free, open-source, and fully automated Discord bot that displays live server metrics in voice channels. Whether you manage a gaming community, a development hub, or a support server, this bot gives your members a clear view of your server’s activity — without lifting a finger.\n\n💡 Key Features:\n\n✅ Completely Free – No paywalls, subscriptions, or premium upsells. Everything is yours from day one.\n✅ Open Source – Built by the community, for the community. Modify it, contribute to it, or just enjoy it.\n✅ Real-Time Updates – Channels auto-update on user join, bot join, role creation, and version changes.\n✅ Set It and Forget It – Once installed, the bot handles everything in the background — no commands needed.\n✅ Clean Design – Stats are shown in read-only voice channels under a dedicated \"Server Stats\" category — visible to all, usable by none.\n\n📊 Displays:\n- Members: Total number of human users\n- Bots: Number of bots in your server\n- Roles: Count of all server roles\n- Version: Automatically Updated\n\n📦 Get Started:\n\nSetting up the bot is simple and fast. Just head to the GitHub repository and follow the clear instructions:\n👉 [Server Stats on GitHub](https://github.com/Pontikaki34/Server-Stats-Discord-Bot)\n\n🔧 Make It Your Own:\n\nWant to tweak how it works? Go ahead! The code is yours to explore and customize. Whether you're an admin looking to brand your server or a developer who wants to expand the features — Server Stats  gives you the freedom to build."
       }
     ]
+  },
+  {
+    "thread_id": 1399822375272583198,
+    "thread_title": "KibMod",
+    "image_url": "https://cdn.discordapp.com/attachments/1399822375272583198/1399822375595413625/ChatGPT_Image_Jun_8_2025_08_23_58_PM.png?ex=68b53e6d&is=68b3eced&hm=63b767fe4ca9d982742bfaec955bbc62333d627390056e5d6f5f1acc77d15d07&",
+    "messages": [
+      {
+        "message_id": 1399822375272583198,
+        "submitted_by": {
+          "username": "kibrisky",
+          "id": 915595546792706168
+        },
+        "raw_content": "This powerful bot is your all-in-one solution for a thriving Discord server! 🚀\n\nHere's how it elevates your community:\n\n🎮 Games & Fun: Keep members entertained with built-in activities and engaging experiences.\n\n🛡️ Moderation: Maintain a clean, organized, and positive environment with robust management tools.\n\n🔒 Anti-Nuke Features: Offering a higher level of security than the average bot, this feature requires the bot to be placed in a higher role within your server's hierarchy. This crucial placement enables it to actively defend against \"nuke\" attempts by kicking or banning malicious bots/users and protecting your community.\n\nIt's the ultimate tool for a fun, safe, and resilient Discord community! ✨\n# [Link To Invite](https://discord.com/oauth2/authorize?client_id=1395479887309045922&permissions=8&integration_type=0&scope=bot+applications.commands)"
+      }
+    ]
   }
 ]
