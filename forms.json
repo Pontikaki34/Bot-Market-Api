@@ -43,5 +43,20 @@
         "raw_content": "**Synz ModMail Bot** – Modern, Private Support for Your Discord Community\n\nEmpower your server with a professional ModMail system, making support easy, private, and efficient for both users and staff.\n\n✨ **Features:**\n* Secure, private modmail sessions between users and staff\n* Slash command support for easy configuration and management\n* Button and modal interactions for a modern Discord experience\n* Persistent session tracking and planned transcript saving\n* Customizable embeds and logging for a professional look\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Channels\n* Manage Roles\n* Send Messages\n* Read Message History\n* Embed Links\n\n**Note:**  \nThis is an open-source ModMail bot designed to be self-hosted and used in a single Discord guild (server).  \nNo public hosting or invite link is provided.\n\n**🌐 GitHub:** https://github.com/LeSynz/modmail-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1399445423831253012,
+    "thread_title": "Ticket Bot - An Open Source Easy to Use Discord Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1399445423831253012/1399445424221458663/Ticket_Bot_Software_Advertisement.png?ex=68b530dd&is=68b3df5d&hm=90eb07c74beffb0200124d633427e7d4817cdf47934d0caba213202e73b20a85&",
+    "messages": [
+      {
+        "message_id": 1399445423831253012,
+        "submitted_by": {
+          "username": "pontikaki34",
+          "id": 976128925799444570
+        },
+        "raw_content": "🎟️ What is Ticket Bot?\n\nTicket Bot is a free, open-source, and fully customizable Discord bot designed to help you easily manage support tickets within your server. Whether you're running a gaming community, offering customer support, or managing applications, Ticket Bot provides a simple and effective solution for organizing and responding to user inquiries.\n\n💡 Key Features:\nCompletely Free – No hidden fees, subscriptions, or premium versions.\n\nOpen Source – Built for the community. You can view, modify, and contribute to the source code.\n\nEasy to Customize – From ticket categories to embed messages, Ticket Bot is simple to tweak for your server’s needs.\n\nQuick Setup – All installation and configuration steps are clearly documented on the GitHub repository.\n\n📦 Get Started:\nSetting up the bot is quick and painless. Just head over to the official repository and follow the step-by-step guide:\n👉 [Ticket Bot on GitHub](https://github.com/Pontikaki34/Ticket-Bot-Discord)\n\n🔧 Make It Your Own:\nYou’re encouraged to clone, modify, and build upon this project. Whether you're a developer looking to improve functionality or a server admin wanting to tailor the bot to your community, the code is yours to explore."
+      }
+    ]
   }
 ]
