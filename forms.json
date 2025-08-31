@@ -277,6 +277,14 @@
           "id": 1183272341778747445
         },
         "raw_content": "Synz Tickets is the first dedicated ticket bot that I have ever made, It hasn't had alot of testing done however it is in a fully complete state.\n\n## Features\n* Fully configurable via `/config`\n* Button based ticket system\n* Full logging system - Staff Actions, Transcripts\n* Fully customisable ticket panels and responses\n\n## Command List\n* `/config` - View/edit the bots config and create ticket panels and types (Admin)\n* `/close` - When used in a ticket channel this will initiate the closing process like the button would\n* `/help` - Detailed help command\n\nAny issues found just send me a DM and I'll get to them ASAP.\n\n**Made by:** [Synz](https://synz.xyz/)\n**Bot Invite:** https://discord.com/oauth2/authorize?client_id=1400203535941107733"
+      },
+      {
+        "message_id": 1402656831842811926,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": ""
       }
     ]
   }
