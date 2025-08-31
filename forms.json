@@ -203,5 +203,20 @@
         "raw_content": "🚀 **Meet GuardX – The Multipurpose Discord Bot!**  \n\nGuardX is **100% FREE**, always online, and packed with powerful features to grow and protect your community.  \n\n──────────────────────────────  \n🔥 **Features:**  \n🟢 **24/7 Uptime** – Always there when you need it  \n🛡️ **Advanced Moderation** – Keep your server safe & clean  \n🎶 **Music System** – High-quality music, anytime  \n🎁 **Giveaways** – Run smooth, automated giveaways  \n👋 **Welcome & Goodbye Messages** – Greet members in style  \n⭐ **XP & Leveling System** – Reward activity with ranks & perks  \n✅ **Verification System** – Block bots & raids instantly  \n🎫 **Ticket Support** – Easy ticket creation & management  \n🤖 **AI System** – Fun, smart, and interactive  \n\n──────────────────────────────  \n🌟 **Why GuardX?**  \n✔️ **Completely Free** – No hidden fees  \n✔️ **Easy Setup** – Invite & start right away  \n✔️ **Community-Driven** – Actively updated with new features  \n\n──────────────────────────────  \n🚀 **Get GuardX Today!**  \n🔗 **Invite Now:** https://guardx.pages.dev/invite  \n💬 **Support Server:** https://discord.gg/xCa6Pn3CAZ  \n🌐 **Website:** https://guardx.pages.dev  \n💎 **Support Development:** https://www.patreon.com/guardx  \n\n──────────────────────────────  \n✨ **GuardX — Thanks for using**"
       }
     ]
+  },
+  {
+    "thread_id": 1400095041510314155,
+    "thread_title": "Ticket Bot - £17 PayPal (Full Source-Code + Setup)",
+    "image_url": "https://cdn.discordapp.com/attachments/1400095041510314155/1400095041690796154/image.png?ex=68b5939e&is=68b4421e&hm=71f56bf240ca489bfdc193fd847c2f12217127c1438d73574a38930fca723bad&",
+    "messages": [
+      {
+        "message_id": 1400095041510314155,
+        "submitted_by": {
+          "username": "kuwshyplus",
+          "id": 1273966738324848690
+        },
+        "raw_content": "Hello! This is my first bot I've worked on and actually completed in a while and I planned on making the price a lot higher but this is only the first varient of this bot: \n\n**Varient 2** (Coming Soon) \n- AI Support Agent \n- Web-Dashboard \nAnd more! \n\n**Features**\n- Easy Configuration `/menu` \n- Easy + Clean Ticket System  \n- Logging - Transcripts, Actions, Notifications\n- Blacklist, Whitelist & Greylist \n- ModMail + AI Responses\n\n**Commands** \n- /menu - Open the menu (Admin Only) \n- /support - View the support menu (Users) \n- /manage_lists - Manage the Blacklist, Whitelist & Greylisted users. \n\nFor more information, testing, etc. Please DM me! \n- I accept PayPal, Card (Stripe)"
+      }
+    ]
   }
 ]
