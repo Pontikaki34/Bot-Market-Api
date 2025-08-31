@@ -28,5 +28,20 @@
         "raw_content": "This powerful bot is your all-in-one solution for a thriving Discord server! 🚀\n\nHere's how it elevates your community:\n\n🎮 Games & Fun: Keep members entertained with built-in activities and engaging experiences.\n\n🛡️ Moderation: Maintain a clean, organized, and positive environment with robust management tools.\n\n🔒 Anti-Nuke Features: Offering a higher level of security than the average bot, this feature requires the bot to be placed in a higher role within your server's hierarchy. This crucial placement enables it to actively defend against \"nuke\" attempts by kicking or banning malicious bots/users and protecting your community.\n\nIt's the ultimate tool for a fun, safe, and resilient Discord community! ✨\n# [Link To Invite](https://discord.com/oauth2/authorize?client_id=1395479887309045922&permissions=8&integration_type=0&scope=bot+applications.commands)"
       }
     ]
+  },
+  {
+    "thread_id": 1400109693040328724,
+    "thread_title": "ModMail Bot - FOSS (Free-Open-Source)",
+    "image_url": "https://cdn.discordapp.com/attachments/1400109693040328724/1400109693409562644/modmail.png?ex=68b5a143&is=68b44fc3&hm=e8d81caaa40ca0c409e1227c5b35f7e09bdf349660e6e32cef6b77f4251f044e&",
+    "messages": [
+      {
+        "message_id": 1400109693040328724,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": "**Synz ModMail Bot** – Modern, Private Support for Your Discord Community\n\nEmpower your server with a professional ModMail system, making support easy, private, and efficient for both users and staff.\n\n✨ **Features:**\n* Secure, private modmail sessions between users and staff\n* Slash command support for easy configuration and management\n* Button and modal interactions for a modern Discord experience\n* Persistent session tracking and planned transcript saving\n* Customizable embeds and logging for a professional look\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Channels\n* Manage Roles\n* Send Messages\n* Read Message History\n* Embed Links\n\n**Note:**  \nThis is an open-source ModMail bot designed to be self-hosted and used in a single Discord guild (server).  \nNo public hosting or invite link is provided.\n\n**🌐 GitHub:** https://github.com/LeSynz/modmail-bot"
+      }
+    ]
   }
 ]
