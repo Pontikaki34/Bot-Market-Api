@@ -656,6 +656,14 @@
           "id": 774922425548013609
         },
         "raw_content": "Uses wavelink v4 lavalink v4 <a:catnod:1412186575521058979> so make sure any updates to code if you do follows suit."
+      },
+      {
+        "message_id": 1426165209248301128,
+        "submitted_by": {
+          "username": "frosty.pyro",
+          "id": 774922425548013609
+        },
+        "raw_content": "The last major update I plan on making to the bot:\n\n-rebuild Spotify.py-music.py for extensive behavior in their own files for better formality/organization. (As the music cog has 6,000+ lines of code)\n\n-add dj setup, queue behavior, complete queue management via built in module.\n\n-IF I get enough requests I have no problem building the frontend to backend for a complete dashboard for Ascend as well which will be included in the SRC <a:catnod:1412186575521058979>  \n\n-# please note that the repository is not up to date, and will be by the end of today/early tomorrow!\n\n-Sleepless Development"
       }
     ]
   }
