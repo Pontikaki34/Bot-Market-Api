@@ -274,5 +274,20 @@
         "raw_content": "**Synz ModMail Bot** – Modern, Private Support for Your Discord Community\n\nEmpower your server with a professional ModMail system, making support easy, private, and efficient for both users and staff.\n\n✨ **Features:**\n* Secure, private modmail sessions between users and staff\n* Slash command support for easy configuration and management\n* Button and modal interactions for a modern Discord experience\n* Persistent session tracking and planned transcript saving\n* Customizable embeds and logging for a professional look\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Channels\n* Manage Roles\n* Send Messages\n* Read Message History\n* Embed Links\n\n**Note:**  \nThis is an open-source ModMail bot designed to be self-hosted and used in a single Discord guild (server).  \nNo public hosting or invite link is provided.\n\n**🌐 GitHub:** https://github.com/LeSynz/modmail-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1398732159971496029,
+    "thread_title": "Better bot- all your server needs",
+    "image_url": "https://cdn.discordapp.com/attachments/1398732159971496029/1398732160189464737/better_bot.webp?ex=690d9016&is=690c3e96&hm=995ceb7e174e62e27edc821a19c3daf5ca14e470592374ede25be03cb127af1e&",
+    "messages": [
+      {
+        "message_id": 1398732159971496029,
+        "submitted_by": {
+          "username": "phantom0933762",
+          "id": 1292845608654340157
+        },
+        "raw_content": "🤖✨ Meet **Bettter Bot** – The Ultimate All-in-One Discord Bot!\n\nPacked with every feature you can imagine — and even some you didn’t know you needed.\n\n━━━━━━━━━━━━━━━━━━\n\n🧭 **Server Growth**\n• Bump system  \n• Global ad relay to promote your server across the network\n\n🛡️ **Raid Protection**\n• Defends against human and bot raids  \n• Smart detection and auto-response\n\n🔧 **Moderation Tools**\n• Invite blockers  \n• Phrase filtering  \n• Built-in verifier system\n\n🎯 **Engagement Boosters**\n• Question of the Day (QOTD)  \n• Count game  \n• In-server shop system  \n• And more interactive features\n\n📜 **Comprehensive Logs**\n• Moderation actions  \n• Channel activity  \n• Message edits/deletes  \n• Role changes  \n• User joins/leaves  \n• Voice channel tracking\n\n⚙️ **Powerful Automation**\n• Custom commands  \n• Sticky messages  \n• Reminders  \n• Temporary voice channels  \n• And more!\n\n🏛️ **Community Features**\n• Welcome & Leave messages  \n• Invite tracker  \n• Staff list  \n• Staff application system\n\n🧰 **Utilities**\n• Ticket system  \n• Select menus  \n• Interactive buttons  \n• Ping replies  \n• Mod Mail\n\nBot Creator zacgaming23\n\n━━━━━━━━━━━━━━━━━━\n**Main Bot**\nhttps://discord.com/oauth2/authorize?client_id=1331077454722502726\n**Music Bot**\nhttps://discord.com/oauth2/authorize?client_id=1401486521109843978\n**Mod Mail bot**\nhttps://discord.com/oauth2/authorize?client_id=1376380168159105024"
+      }
+    ]
   }
 ]
