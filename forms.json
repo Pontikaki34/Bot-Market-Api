@@ -449,5 +449,20 @@
         "raw_content": "*Hello! I am a Bot Developer / Software Engineer, and I work very hard.*\n\n**__About the Bot:__**\n\nThis bot includes moderator commands, auto-moderation, and logs.\n\n**__Moderator Commands:__**\n\nThe bot supports slash and custom commands, such as /ban {username} {reason}, and more. It can also DM users who are banned.\n\n**__Auto Moderation:__**\n\nThe auto-moderation system can automatically kick users after reaching 3 warnings and issue warnings for bad language.\n\n**__Logs:__**\n\nLogs are sent to the mod-logs channel, including deleted messages, command usage, role changes/deletions, and more.\n\n**__Payement:__**\n\n*_Paypal:_* $5"
       }
     ]
+  },
+  {
+    "thread_id": 1398237310931308677,
+    "thread_title": "How to post my Ad?",
+    "image_url": "https://cdn.discordapp.com/attachments/1398237310931308677/1398237311426367599/FREE.png?ex=690dbd79&is=690c6bf9&hm=e373450efbdaffed3059a436e63483e4350a4ff3b4b4e9e6cb48bbb3fec1d2f4&",
+    "messages": [
+      {
+        "message_id": 1398237310931308677,
+        "submitted_by": {
+          "username": "CoreRelay",
+          "id": 1368941216670023781
+        },
+        "raw_content": ""
+      }
+    ]
   }
 ]
