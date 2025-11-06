@@ -137,5 +137,20 @@
         "raw_content": "**If you use** - Please make sure to give respectable credits."
       }
     ]
+  },
+  {
+    "thread_id": 1399822375272583198,
+    "thread_title": "KibMod",
+    "image_url": "https://cdn.discordapp.com/attachments/1399822375272583198/1399822375595413625/ChatGPT_Image_Jun_8_2025_08_23_58_PM.png?ex=690d92ed&is=690c416d&hm=5a8f3278deefcc6130ead2a14a93da9716727766255126d3ec64339d126561a3&",
+    "messages": [
+      {
+        "message_id": 1399822375272583198,
+        "submitted_by": {
+          "username": "kibrisky",
+          "id": 915595546792706168
+        },
+        "raw_content": "This powerful bot is your all-in-one solution for a thriving Discord server! 🚀\n\nHere's how it elevates your community:\n\n🎮 Games & Fun: Keep members entertained with built-in activities and engaging experiences.\n\n🛡️ Moderation: Maintain a clean, organized, and positive environment with robust management tools.\n\n🔒 Anti-Nuke Features: Offering a higher level of security than the average bot, this feature requires the bot to be placed in a higher role within your server's hierarchy. This crucial placement enables it to actively defend against \"nuke\" attempts by kicking or banning malicious bots/users and protecting your community.\n\nIt's the ultimate tool for a fun, safe, and resilient Discord community! ✨\n# [Link To Invite](https://discord.com/oauth2/authorize?client_id=1395479887309045922&permissions=8&integration_type=0&scope=bot+applications.commands)"
+      }
+    ]
   }
 ]
