@@ -434,5 +434,20 @@
         "raw_content": "# 🚀 **FA Bump & FA Global Ads – Automated Promotion for Your Discord Server**\n\n**More reach. More members. Less effort.**\n\nWith **FA Bump** and **FA Global Ads**, Discordium.org gives you the ultimate tools to promote your Discord server **24/7 – automatically.**\n\n### 🔧 What you get:\n\n* 🔁 **Automatic bumps every 2 hours**\n* 🌐 **Your ad distributed across 100+ partner servers**\n* 🎨 **Custom banners & personalized server descriptions**\n* 💬 **Comment section for your listing**\n* 💎 **Premium boosts & network perks for maximum exposure**\n\n> Whether you're running a gaming hub, support server, or social community – FA helps you reach the right audience.\n\n🛠️ Easy setup with `/setup` // `/bump`\n✅ Start now: \n- https://ptb.discord.com/discovery/applications/1140615763082879047\n- https://ptb.discord.com/discovery/applications/1089476688246738985"
       }
     ]
+  },
+  {
+    "thread_id": 1418685040098934895,
+    "thread_title": "Moderation Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1418685040098934895/1418685040425963540/image.png?ex=690da427&is=690c52a7&hm=42ebfd5e2e0f1799a3dc45574f0a63e3d9cc045e1f19812f6972c046cff9abc4&",
+    "messages": [
+      {
+        "message_id": 1418685040098934895,
+        "submitted_by": {
+          "username": "dali123049",
+          "id": 1234583019592089701
+        },
+        "raw_content": "*Hello! I am a Bot Developer / Software Engineer, and I work very hard.*\n\n**__About the Bot:__**\n\nThis bot includes moderator commands, auto-moderation, and logs.\n\n**__Moderator Commands:__**\n\nThe bot supports slash and custom commands, such as /ban {username} {reason}, and more. It can also DM users who are banned.\n\n**__Auto Moderation:__**\n\nThe auto-moderation system can automatically kick users after reaching 3 warnings and issue warnings for bad language.\n\n**__Logs:__**\n\nLogs are sent to the mod-logs channel, including deleted messages, command usage, role changes/deletions, and more.\n\n**__Payement:__**\n\n*_Paypal:_* $5"
+      }
+    ]
   }
 ]
