@@ -396,5 +396,20 @@
         "raw_content": "W bot"
       }
     ]
+  },
+  {
+    "thread_id": 1419298624084512808,
+    "thread_title": "Moderation & AI Logic Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1419298624084512808/1419298625032552530/MK_Brothers_NEW_LOGO.png?ex=690d3c99&is=690beb19&hm=cbe41871c4b46b0592203a9269badd8ab7fb98cd630593f369e62bfad0e0a3a4&",
+    "messages": [
+      {
+        "message_id": 1419298624084512808,
+        "submitted_by": {
+          "username": "mxfil5",
+          "id": 894116438221131816
+        },
+        "raw_content": "Want A Simple Moderation Bot With AI Logic?\n*Moderation Bot* Has Got you covered\n\nNormal Moderation Bot Features\n\nwhen you ping it it will respond\n\nEasy To Customize\n\nMIT License\n\n**Github** : https://github.com/Jackpk52/Moderation-Bot-With-AI-Logic"
+      }
+    ]
   }
 ]
