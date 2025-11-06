@@ -588,5 +588,20 @@
         "raw_content": "Polara is a NEW bot that offers moderation commands economy utility and overall fun \n\nBot prefixes are / & - its gaining a bunch of updates everyday that includes new commands fixing bugs and \n\nJoin the support server and invite the bot, and then run /commandlist to view all of the commands the bot offers \n\n# SAVE THE POLARS\n-\nThe entire bot is mainly based on that! \n\nhttps://discord.com/oauth2/authorize?client_id=1404398044002127872\n\nhttps://discord.gg/PeFzf5xwRt"
       }
     ]
+  },
+  {
+    "thread_id": 1423779272744505564,
+    "thread_title": "TicketPilot - Source Code",
+    "image_url": "https://cdn.discordapp.com/attachments/1423779272744505564/1423779273096822795/Ticket_Pilot.png?ex=690db787&is=690c6607&hm=a0f7c8895657d3041a1d85e3e22ad32394e2423844deb9276a01da2147e3947f&",
+    "messages": [
+      {
+        "message_id": 1423779272744505564,
+        "submitted_by": {
+          "username": "007codename",
+          "id": 883965319171952660
+        },
+        "raw_content": "Want a simple ticket bot for your server?\n**Ticket Pilot** is now *open-source* — easy to set up, and beginner-friendly.\n\n## Features:\n* Multiple ticket options\n* Commands for easy access: ``/ticket`` & ``/close``\n* Logs all tickets in the log channel\n* Sends the ticket transcript to user's *DM* and the *log channel*\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/discord-ticket-bot"
+      }
+    ]
   }
 ]
