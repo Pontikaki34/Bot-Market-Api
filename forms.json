@@ -558,5 +558,20 @@
         "raw_content": "hmmmm"
       }
     ]
+  },
+  {
+    "thread_id": 1412528745818099734,
+    "thread_title": "Welcome Wizard Source Code — Self-Hosted Welcome Bot on GitHub",
+    "image_url": "https://cdn.discordapp.com/attachments/1412528745818099734/1412528746879127572/Greeting_Bot_Code.png?ex=690da828&is=690c56a8&hm=90024e2a543ed6c2c66408ee2488d0805ec82f3ecaae068a2d06e1d090254522&",
+    "messages": [
+      {
+        "message_id": 1412528745818099734,
+        "submitted_by": {
+          "username": "007codename",
+          "id": 883965319171952660
+        },
+        "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n## Features:\n* Sends a stylish embed message in DMs when a user joins\n* Tracks down invites and it saves them in a local file\n* Shows invites statistics\n* Send a tracking message for joins/leaves in a specified channel\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
+      }
+    ]
   }
 ]
