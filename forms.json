@@ -213,5 +213,20 @@
         "raw_content": "Giveaway Bot - £11 PayPal (Full Source Code + Setup)"
       }
     ]
+  },
+  {
+    "thread_id": 1399445423831253012,
+    "thread_title": "Ticket Bot - An Open Source Easy to Use Discord Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1399445423831253012/1399445424221458663/Ticket_Bot_Software_Advertisement.png?ex=690d855d&is=690c33dd&hm=6816866b5e6ca6728b7782309c9ecbff36205e07f02016768488c81ee86170f1&",
+    "messages": [
+      {
+        "message_id": 1399445423831253012,
+        "submitted_by": {
+          "username": "pontikaki34",
+          "id": 976128925799444570
+        },
+        "raw_content": "🎟️ What is Ticket Bot?\n\nTicket Bot is a free, open-source, and fully customizable Discord bot designed to help you easily manage support tickets within your server. Whether you're running a gaming community, offering customer support, or managing applications, Ticket Bot provides a simple and effective solution for organizing and responding to user inquiries.\n\n💡 Key Features:\nCompletely Free – No hidden fees, subscriptions, or premium versions.\n\nOpen Source – Built for the community. You can view, modify, and contribute to the source code.\n\nEasy to Customize – From ticket categories to embed messages, Ticket Bot is simple to tweak for your server’s needs.\n\nQuick Setup – All installation and configuration steps are clearly documented on the GitHub repository.\n\n📦 Get Started:\nSetting up the bot is quick and painless. Just head over to the official repository and follow the step-by-step guide:\n👉 [Ticket Bot on GitHub](https://github.com/Pontikaki34/Ticket-Bot-Discord)\n\n🔧 Make It Your Own:\nYou’re encouraged to clone, modify, and build upon this project. Whether you're a developer looking to improve functionality or a server admin wanting to tailor the bot to your community, the code is yours to explore."
+      }
+    ]
   }
 ]
