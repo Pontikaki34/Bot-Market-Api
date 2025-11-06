@@ -327,5 +327,20 @@
         "raw_content": "Need a laugh? Or a groan? Or a dramatic eye-roll from your whole server?\n\n**Dad Jokes** delivers randomly generated dad jokes so bad, they’re kinda good.\nPerfect icebreaker for awkward silences and dead VC energy.\n\n✨ **Features:**\n* Mention the bot and it responds with the joke\n* Random dad joke\n* No setup needed\n\n**Made by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=961365558148861974&permissions=67584&integration_type=0&scope=bot"
       }
     ]
+  },
+  {
+    "thread_id": 1392628921023070268,
+    "thread_title": "Verify Tag - Reward Users Using Your Tag",
+    "image_url": "https://cdn.discordapp.com/attachments/1392628921023070268/1392628921362812928/verify-tag.png?ex=690dc580&is=690c7400&hm=73e00534bc2257b7558468a3f4ead14148c8908dd9e98b2309801141b74d3905&",
+    "messages": [
+      {
+        "message_id": 1392628921023070268,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": "**Verify Tag** – Turn Discord Tags into a Badge of Honor\n\nEmpower your community with Discord’s custom tag feature by rewarding users who wear your tag with pride.\n\n✨ **Features:**\n* Secure verification flow through a web interface\n* Automatically assign a role to verified tag users\n* Fully embedded, ephemeral responses to keep your server clean\n* Easy setup with `/config` and built-in help with `/help`\n* Promote server identity, reward loyalty, and boost engagement\n\n**Made by:** [Synz](https://synz.xyz/)\n\n**Required Permissions:**\n* Manage Roles\n* Send Messages\n\n**🔗 Invite:** https://verify.synz.xyz/invite  \n**💬 Support Server:** discord.gg/aKWZ7XMVQj"
+      }
+    ]
   }
 ]
