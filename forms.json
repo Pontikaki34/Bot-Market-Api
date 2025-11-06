@@ -573,5 +573,20 @@
         "raw_content": "Want a simple greeting bot for your server?\n**Welcome Wizard** is now *open-source* — easy to set up, clean codebase, and beginner-friendly.\n\n## Features:\n* Sends a stylish embed message in DMs when a user joins\n* Tracks down invites and it saves them in a local file\n* Shows invites statistics\n* Send a tracking message for joins/leaves in a specified channel\n\n> You can easily customize it\n \n📜 MIT License – feel free to tweak or fork it.\n\n🔗 **GitHub:** https://github.com/007codename/greeting-discord-bot"
       }
     ]
+  },
+  {
+    "thread_id": 1417847013004935178,
+    "thread_title": "Polara",
+    "image_url": "https://cdn.discordapp.com/attachments/1417847013004935178/1417847013428428830/IMG_1263.jpg?ex=690d3aae&is=690be92e&hm=3dab52ea25b4aebe73345623b51e78c7538d27406b74d4f797bce311006c92e9&",
+    "messages": [
+      {
+        "message_id": 1417847013004935178,
+        "submitted_by": {
+          "username": "gostab",
+          "id": 1197675823294066824
+        },
+        "raw_content": "Polara is a NEW bot that offers moderation commands economy utility and overall fun \n\nBot prefixes are / & - its gaining a bunch of updates everyday that includes new commands fixing bugs and \n\nJoin the support server and invite the bot, and then run /commandlist to view all of the commands the bot offers \n\n# SAVE THE POLARS\n-\nThe entire bot is mainly based on that! \n\nhttps://discord.com/oauth2/authorize?client_id=1404398044002127872\n\nhttps://discord.gg/PeFzf5xwRt"
+      }
+    ]
   }
 ]
