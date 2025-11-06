@@ -679,6 +679,14 @@
           "id": 883965319171952660
         },
         "raw_content": "## 🌿 Morus — Your Daily Dose of Wisdom\n\n_Morus_ is a simple yet thoughtful Discord bot that brings **quotes, wise thoughts, and timeless wisdom** straight into your server’s conversations. Whether someone types “I need a quote” or you just want daily inspiration, Morus delivers with elegance and consistency.\n\n---\n\n### ✨ Features\n\n**📜 On-Demand Quotes**\nUse the `/quote` command or trigger natural phrases (like “I need a quote”) to receive a random inspiring thought, complete with the author.\n\n**🕊️ Daily Quote System**\nMorus automatically posts a quote **once per day** in your configured channel — optionally mentioning a role of your choice for daily inspiration.\n\n> Example:  \n> 🕐 *Every morning at the same time in your chosen channel*  \n> \n> `@Daily Wisdom`  \n> *The only true wisdom is in knowing you know nothing.*\n> **— Socrates**\n\n**💡 Suggest System**\nLet your community participate in the wisdom.  \nMembers can use `/suggest` to share their favorite quotes (with author attribution).\n\n**⚙️ Easy Setup**\nAdmins can use `/setup` to configure:\n- The **daily quote channel**\n- The **role to mention** (optional)\n- The **thread creation** to allow discussions (optional)\n\n---\n\n### 🛠️ Commands\n\n- `/setup` → Set up the daily quote channel and optional role & thread creation (Admin only)  \n- `/quote` → Get a quote/wisdom instantly (optional tag)  \n- `/suggest` → Suggest a quote with the author name  \n\n---\n\n### 🔒 Required Permissions\n- **Send Messages**  \n- **Send Messages in Threads**\n- **Create Public Threads**\n- **Read Message History**  \n- **Mention All Roles**  \n- **Use Application Commands**\n\n---\n\n### 🔗 Invite Morus\n[**Add Morus to your server**](https://discord.com/oauth2/authorize?client_id=1022613783455223888)\n\nBring daily wisdom to your community. Let Morus remind your members that a good quote hits harder than a thousand pings."
+      },
+      {
+        "message_id": 1429079164580790332,
+        "submitted_by": {
+          "username": "Morus",
+          "id": 1022613783455223888
+        },
+        "raw_content": "*We don’t hear with our ears, we hear with our past. We don’t see with our eyes, we see with our scars. \n**Change the lens you see life** with, and the **reality will change** with it.*"
       }
     ]
   }
