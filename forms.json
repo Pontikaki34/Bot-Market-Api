@@ -504,5 +504,20 @@
         "raw_content": ""
       }
     ]
+  },
+  {
+    "thread_id": 1402656699516588163,
+    "thread_title": "Synz Tickets - Your All-In-One Ticket Bot",
+    "image_url": "https://cdn.discordapp.com/attachments/1402656699516588163/1402656700217032907/ticket-bot.png?ex=690d5699&is=690c0519&hm=07d9b4c1716c5d04a95008eb2044a7512ae113dd75276ca8105d891a2944b223&",
+    "messages": [
+      {
+        "message_id": 1402656699516588163,
+        "submitted_by": {
+          "username": "_synz_.",
+          "id": 1183272341778747445
+        },
+        "raw_content": "Synz Tickets is the first dedicated ticket bot that I have ever made, It hasn't had alot of testing done however it is in a fully complete state.\n\n## Features\n* Fully configurable via `/config`\n* Button based ticket system\n* Full logging system - Staff Actions, Transcripts\n* Fully customisable ticket panels and responses\n\n## Command List\n* `/config` - View/edit the bots config and create ticket panels and types (Admin)\n* `/close` - When used in a ticket channel this will initiate the closing process like the button would\n* `/help` - Detailed help command\n\nAny issues found just send me a DM and I'll get to them ASAP.\n\n**Made by:** [Synz](https://synz.xyz/)\n**Bot Invite:** closed"
+      }
+    ]
   }
 ]
