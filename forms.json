@@ -777,7 +777,7 @@
   {
     "thread_id": 1433483243092574228,
     "thread_title": "Chatgpt",
-    "image_url": null,
+    "image_url": "https://cdn.discordapp.com/attachments/1433483243092574228/1433752139091546153/Screenshot_20251031_134335_Discord.jpg?ex=690dbe3b&is=690c6cbb&hm=eac38ab1ec07a6ded3edf4dbc8f692daa671b91028ee825aba3ffbe6691c2dd8&",
     "messages": [
       {
         "message_id": 1433483243092574228,
@@ -786,6 +786,14 @@
           "id": 1390225895993901179
         },
         "raw_content": "🧠💬 Elite AI — Your Smartest Discord Companion\nBring the power of ChatGPT straight into your Discord server!\nElite AI is more than just a chatbot — it’s your 24/7 assistant, friend, and moderator all in one.\nTalk, learn, create, and manage your server like never before.\n⚙️ What It Can Do\n💭 Real Conversations:\nChat naturally with an advanced AI that actually understands you.\n📚 Information on Demand:\nNeed help, answers, or ideas? Just ask — instant responses powered by ChatGPT.\n🛠️ Server Integration:\nCombine AI with your moderation or ticket system — total automation made smart.\n🧠 Creative Mode:\nGet help writing messages, ideas, or full paragraphs — perfect for creators and staff.\n🚀 Why Elite AI?\n✅ Fast, accurate ChatGPT responses\n✅ Smart, interactive, and customizable\n✅ Works in DMs or public channels\n✅ Constant updates & premium features coming soon\n✅ Perfect for any type of server — from chill hangouts to pro communities\n💬 Command Examples\n/chat <message> — Talk directly with the AI\n/persona <style> — Change how the AI behaves\n/help — Learn all the commands and features\n🌐 Elite AI — Because Smart Servers Deserve Smart Bots.\nBring life, brains, and creativity to your Discord today!\n⚡ Add Elite AI now and chat smarter. \nYou dont even have to pay anything\nJust consider it as a gift \nhttps://discord.com/oauth2/authorize?client_id=1089317211652509811"
+      },
+      {
+        "message_id": 1433752139016179844,
+        "submitted_by": {
+          "username": "tjelite1",
+          "id": 1390225895993901179
+        },
+        "raw_content": ""
       }
     ]
   }
