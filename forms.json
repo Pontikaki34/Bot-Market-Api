@@ -616,6 +616,14 @@
           "id": 774922425548013609
         },
         "raw_content": "This is Ascend, a feature rich Music bot built in D.PY  V 2.6.3+\n\n- This bot features\n\n* Spotify Connection and playback through API/URI connection.\n* Complete music control with Equalizer, Audio Mixer, Dj setup, Recommendations, and Volume control.\n* Connected by Wavelink/Lavalink 3.4.1+ \n* 40 robust commands for seamless play.\nDocmentation-https://Ascend-Docs.replit.app\nGithub SRC (Free with credit)-https://github.com/FrostyTheDevv/Ascend"
+      },
+      {
+        "message_id": 1425934813961125960,
+        "submitted_by": {
+          "username": "frosty.pyro",
+          "id": 774922425548013609
+        },
+        "raw_content": ""
       }
     ]
   }
