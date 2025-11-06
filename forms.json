@@ -152,5 +152,20 @@
         "raw_content": "This powerful bot is your all-in-one solution for a thriving Discord server! 🚀\n\nHere's how it elevates your community:\n\n🎮 Games & Fun: Keep members entertained with built-in activities and engaging experiences.\n\n🛡️ Moderation: Maintain a clean, organized, and positive environment with robust management tools.\n\n🔒 Anti-Nuke Features: Offering a higher level of security than the average bot, this feature requires the bot to be placed in a higher role within your server's hierarchy. This crucial placement enables it to actively defend against \"nuke\" attempts by kicking or banning malicious bots/users and protecting your community.\n\nIt's the ultimate tool for a fun, safe, and resilient Discord community! ✨\n# [Link To Invite](https://discord.com/oauth2/authorize?client_id=1395479887309045922&permissions=8&integration_type=0&scope=bot+applications.commands)"
       }
     ]
+  },
+  {
+    "thread_id": 1390677000842117170,
+    "thread_title": "Old Man Quotes — Wisdom, Sass, and Occasional Nonsense",
+    "image_url": "https://cdn.discordapp.com/attachments/1390677000842117170/1390677001139916870/Old_Man_Quotes.png?ex=690d4322&is=690bf1a2&hm=e57aa1be76e78926605aae56a8d3d080061f1aae3b88fa5b60735f700b6cce59&",
+    "messages": [
+      {
+        "message_id": 1390677000842117170,
+        "submitted_by": {
+          "username": "aki.19",
+          "id": 1008122921711059016
+        },
+        "raw_content": "Bring some cranky wisdom to your server with **Old Man Quotes**, the bot that drops legendary one-liners like your grandpa after 3 cups of tea.\n\n✨ **Features:**\n* Mention the bot and it will respond with random wisdom\n* Occasional roast-level truths\n* Zero setup — plug & play\n\n**Developed by:** Me\n\n**Required Permissions:**\n* Read Message history\n* Send Messages\n\n**🔗 Invite Authorization link:** https://discord.com/oauth2/authorize?client_id=1023316316570005556&permissions=274877908992&integration_type=0&scope=bot"
+      }
+    ]
   }
 ]
